@@ -201,12 +201,12 @@ export default function About() {
                                         <p>Pate No. 7191, Bapurao Patil Galli<br />Sonali Naka, Takali Road<br />Takali - 416 111<br />Ta. Miraj, Dist. Sangli<br />Maharashtra, India</p>
 
                                         <h3 className="mt-4">{t('contact_info')}</h3>
-                                        <p>📞 <a href="tel:+912333214210">02333 214210</a></p>
+                                        <p>📞 <a href="tel:+917447484725">+91 744 748 4725</a></p>
                                         <p>✉️ <a href="mailto:vkaavajare@gmail.com">vkaavajare@gmail.com</a></p>
                                         <p>⏰ {t('business_hours')}<br />{t('sunday_closed')}</p>
 
                                         <div className="about-loc-btns">
-                                            <a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer" className="btn-emerald">
+                                            <a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer" className="btn-emerald">
                                                 💬 {t('chat_whatsapp')}
                                             </a>
                                             <Link to="/contact" className="btn-outline-emerald">

@@ -55,9 +55,9 @@ export default function Products() {
 
                         <div className="sidebar-card sidebar-contact">
                             <h3>{t('quick_contact')}</h3>
-                            <p><strong>📞 {t('label_phone')}</strong><a href="tel:+912333214210">02333 214210</a></p>
+                            <p><strong>📞 {t('label_phone')}</strong><a href="tel:+917447484725">+91 744 748 4725</a></p>
                             <p><strong>⏰ {t('label_hours')}</strong>Mon-Sat: 9AM-7PM</p>
-                            <a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer" className="btn-emerald w-100 justify-content-center mt-2" style={{ fontSize: 13, padding: '10px 16px' }}>
+                            <a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer" className="btn-emerald w-100 justify-content-center mt-2" style={{ fontSize: 13, padding: '10px 16px' }}>
                                 💬 WhatsApp
                             </a>
                         </div>

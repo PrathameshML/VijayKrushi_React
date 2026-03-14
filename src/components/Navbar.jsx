@@ -27,8 +27,10 @@ export default function Navbar() {
         { to: '/contact', label: t('nav_contact') },
     ];
 
+    const isHome = location.pathname === '/';
+
     return (
-        <nav className={`vka-nav ${scrolled ? 'scrolled' : ''}`}>
+        <nav className={`vka-nav ${scrolled || !isHome ? 'scrolled' : ''}`}>
             <div className="container-fluid">
                 <Link to="/" className="nav-brand">
                     <img src="/images/logo.png" alt="VKA" />
@@ -47,7 +49,7 @@ export default function Navbar() {
                 </div>
 
                 <div className="nav-actions">
-                    <a href="tel:+912333214210" className="nav-call">
+                    <a href="tel:+917447484725" className="nav-call">
                         <Phone size={15} />
                         <span className="call-text">Call</span>
                     </a>

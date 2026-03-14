@@ -29,11 +29,11 @@ export default function Contact() {
                                 <ul className="ct-list">
                                     <li>
                                         <div className="ct-icon"><Phone size={18} /></div>
-                                        <div><strong>{t('label_phone')}</strong><a href="tel:+912333214210">02333 214210</a></div>
+                                        <div><strong>{t('label_phone')}</strong><a href="tel:+917447484725">+91 744 748 4725</a></div>
                                     </li>
                                     <li>
                                         <div className="ct-icon"><MessageCircle size={18} /></div>
-                                        <div><strong>WhatsApp</strong><a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer">02333 214210</a></div>
+                                        <div><strong>WhatsApp</strong><a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer">+91 744 748 4725</a></div>
                                     </li>
                                     <li>
                                         <div className="ct-icon"><Mail size={18} /></div>
@@ -50,7 +50,7 @@ export default function Contact() {
                                 </ul>
 
                                 <div className="mt-5">
-                                    <a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer" className="btn-whatsapp-special">
+                                    <a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer" className="btn-whatsapp-special">
                                         <MessageCircle size={22} fill="white" />
                                         <span>{t('chat_whatsapp_special') || 'Chat on WhatsApp'}</span>
                                     </a>

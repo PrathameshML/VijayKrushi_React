@@ -51,7 +51,7 @@ export default function Footer() {
                     <div className="footer-col">
                         <h4>{t('nav_contact')}</h4>
                         <p>Takali, Miraj, Sangli<br />Maharashtra - 416 111</p>
-                        <p>Phone: <a href="tel:+912333214210">02333 214210</a></p>
+                        <p>Phone: <a href="tel:+917447484725">+91 744 748 4725</a></p>
                         <p>Email: <a href="mailto:vkaavajare@gmail.com">vkaavajare@gmail.com</a></p>
                     </div>
                 </div>

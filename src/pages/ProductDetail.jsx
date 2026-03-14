@@ -89,7 +89,7 @@ export default function ProductDetail() {
 
                                 <div className="pd-actions">
                                     <a
-                                        href={`https://wa.me/912333214210?text=Hi, I'm interested in ${encodeURIComponent(product.name)}`}
+                                        href={`https://wa.me/917447484725?text=Hi, I'm interested in ${encodeURIComponent(product.name)}`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn-emerald"

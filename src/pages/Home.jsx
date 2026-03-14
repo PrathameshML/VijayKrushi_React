@@ -28,7 +28,7 @@ export default function Home() {
                         <h1 className="mobile-hero-title">Vijay Krushi Avajare</h1>
                         <p className="mobile-hero-subtitle">Dealer in Agricultural Equipment - Power Weeders, HTP Sprayers, Seeders & Tools</p>
                         <div className="mobile-hero-actions">
-                            <a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer" className="btn-emerald">
+                            <a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer" className="btn-emerald">
                                 {t('chat_whatsapp')}
                             </a>
                         </div>
@@ -199,7 +199,7 @@ export default function Home() {
                                         </div>
                                         <div className="loc-detail">
                                             <div className="loc-label"><Phone size={14} /> {t('nav_contact')}</div>
-                                            <p>Phone: <a href="tel:+912333214210">02333 214210</a><br />
+                                            <p>Phone: <a href="tel:+917447484725">+91 744 748 4725</a><br />
                                                 Email: <a href="mailto:vkaavajare@gmail.com">vkaavajare@gmail.com</a></p>
                                         </div>
                                         <div className="loc-detail">
@@ -207,7 +207,7 @@ export default function Home() {
                                             <p>{t('business_hours')}<br />{t('sunday_closed')}</p>
                                         </div>
                                         <div className="loc-btns">
-                                            <a href="https://wa.me/912333214210" target="_blank" rel="noopener noreferrer" className="btn-emerald">
+                                            <a href="https://wa.me/917447484725" target="_blank" rel="noopener noreferrer" className="btn-emerald">
                                                 {t('chat_whatsapp')}
                                             </a>
                                             <Link to="/contact" className="btn-outline-emerald">
